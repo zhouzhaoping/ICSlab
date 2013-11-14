@@ -1,0 +1,15 @@
+
+周钊平
+1100012779
+guest377
+zhouzhaoping11@gmail.com
+1100012779@pku.edu.cn
+
+文件：
+cache.h
+	cache的数据结构
+cache.c
+	cache基本操作的实现
+	留下三个接口函数：Get_cache/Create_cache/Cache_init
+proxy.c
+	代理服务器的执行
